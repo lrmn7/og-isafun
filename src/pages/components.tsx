@@ -23,7 +23,7 @@ const Components = () => {
             <h3>Regular Link</h3>
             <div className="flex flex-wrap gap-2">
               <UnstyledLink href="/">Internal Link</UnstyledLink>
-              <UnstyledLink href="https://is-a.fun">
+              <UnstyledLink href="https://og.is-a.fun">
                 External Link
               </UnstyledLink>
             </div>
@@ -32,7 +32,7 @@ const Components = () => {
             <h3>Primary Link</h3>
             <div className="flex flex-wrap gap-2">
               <PrimaryLink href="/">Regular link</PrimaryLink>
-              <PrimaryLink href="https://is-a.fun">
+              <PrimaryLink href="https://og.is-a.fun">
                 External link
               </PrimaryLink>
             </div>
